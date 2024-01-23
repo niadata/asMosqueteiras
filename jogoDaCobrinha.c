@@ -1,5 +1,5 @@
-#include <studio.h>
-#include <studlib.h> // função system e scand
+#include <stdio.h>
+#include <stdlib.h> // função system e scand
 #include <windows.h> // função setConsoleCursosPosition, gotoxy, coord
 #include <time.h>    // função rand
 #include <conio.h>   // p/ funcao getch
